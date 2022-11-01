@@ -7,9 +7,11 @@ Using this serie of blueprints based on Terraform, you will be able to deploy ea
 # Getting Started
 comments
 
-1. Oracle to PostgreSQL Migration.
-2. Oracle to SQL Migration.
-3. Other References: 
+1. Migration Strategy.
+![01_01.migration_and_modernization_journey](이미지_소스_URL "이미지 설명(title)")
+2. Oracle to PostgreSQL Migration.
+3. Oracle to SQL Migration.
+4. Other References: 
 ```
 comments
 ```
