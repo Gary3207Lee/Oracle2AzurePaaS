@@ -11,6 +11,7 @@ Using this serie of blueprints based on Terraform, you will be able to deploy ea
 
 ## 2) Cloud Migration Strategy
 ![01_02.cloud_migration_strategy](https://github.com/Gary3207Lee/Oracle2AzurePaaS/blob/main/01.MigrationStrategy/Resources/Image/01_02.cloud_migration_strategy.png "migration_drivers")
+For more information about cloud migration strategies, see [Start your cloud migration process](https://azure.microsoft.com/en-us/migration/migration-journey/).
 <br/>
 
 ## 3) Migration and Modernization Journey
