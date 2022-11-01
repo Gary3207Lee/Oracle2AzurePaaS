@@ -5,7 +5,11 @@ Using this serie of blueprints based on Terraform, you will be able to deploy ea
 
 # 1. Migration Strategy.
 
+## 1) Migration and Modernization Journey
 ![01_01.migration_and_modernization_journey](https://github.com/Gary3207Lee/Oracle2AzurePaaS/blob/main/01.MigrationStrategy/Resources/Image/01_01.migration_and_modernization_journey.png "migration_and_modernization_journey")
+
+## 2) 
+
 <br/>
 
 # 2. Oracle to PostgreSQL Migration.
