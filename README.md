@@ -20,6 +20,8 @@ Welcome to the Oracle to Azure PaaS database migration.
 [Migration Driver References for SQL Database](./03.Oracle2SQL/03-01.Migration_Drivers.md)
 </br>
 
+</br>
+
 ## **2. Cloud Migration Strategy**
 
 - **Rehost**: Often referred to as “lift and shift” migration, this no-code option lets you migrate your existing applications to Azure quickly. Each application is migrated as-is, which provides the benefits of the cloud without the risks or costs of making code changes, and you can leverage SQL Server on Azure Virtual Machines, Microsoft’s infrastructure as a service (IaaS) product, to achieve that.
