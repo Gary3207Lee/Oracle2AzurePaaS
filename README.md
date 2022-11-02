@@ -44,6 +44,42 @@ For more information about cloud migration strategies, see [Start your cloud mig
 ### **(1) Pre-Migration**
 
 - **Discovery**
+</br>
+
+  - **What to Discover?**
+    - Application Details: Service Target, Service Time, Multi-Tenant, SaaS.
+    - Service(Workload) Identity: Dependency for other Apps and Databases.
+    - H/W Spec: Cores, IOPS, MEM, Volume.
+    - Resource Utilization: Average & Peak resource utilization for CPU, MEM, IOPS, Sessions.
+    - Third Party Application
+    - Encoding details (UTF 8/16)
+    - Database Link details
+    - OLTP & OLAP details
+    - Custom Field
+    - Sharding & Partitioning
+    - Performance and Response Time
+    - HA & DR details
+    - Backup and Retention
+    - Sensitive Data details (PII)
+    - Compliance Requirement details
+    </br>
+  
+  </br>
+  
+  - **Outcomes of Discovery**
+    - Discover the server, application, and database assets of different sources to Azure SQL Target Databases.
+    - Determine application dependencies, database dependencies and available downtime for each business services.
+    - Workloads that need to be migrated together (Server, Application, Databases).
+    - Inventory collection template filled.
+    - Ora2PG / DMA preliminary inventory details.
+    </br>
+
+  - **Accelerators**
+    - MAP Microsoft Assessment and Planning Toolkit: Inventory, assessment Download Link: MAP Tool kit
+    - Azure Migrate for application workloads and dependencies.
+    - DMA/SSMA : scans Source Databases and collects schema, Data.
+    </br>
+
 - **Assessment & Convert**
   - [PostgreSQL](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md)
   - [SQL Database](./03.Oracle2SQL/03-02.Assessment_Convert.md)
