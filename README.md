@@ -71,9 +71,9 @@ For more information about cloud migration strategies, see [Start your cloud mig
     </br>
 
   - **Accelerators**
-    - MAP Microsoft Assessment and Planning Toolkit: Inventory, assessment Download Link: MAP Tool kit
-    - Azure Migrate for application workloads and dependencies.
-    - DMA/SSMA : scans Source Databases and collects schema, Data.
+    - MAP Microsoft Assessment and Planning Toolkit: Inventory, assessment Download Link: [MAP Tool kit](https://www.microsoft.com/en-us/download/details.aspx?id=7826)
+    - [Azure Migrate](https://azure.microsoft.com/en-us/products/app-service/migration-tools/) for application workloads and dependencies.
+    - [Ora2PG](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md) / [DMA](./03.Oracle2SQL/03-02.Assessment_Convert.md) : scans Source Databases and collects schema, Data.
     </br>
 
 </br>
