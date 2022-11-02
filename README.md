@@ -76,8 +76,12 @@ For more information about cloud migration strategies, see [Start your cloud mig
   - **Accelerators For Discovery**
     - MAP Microsoft Assessment and Planning Toolkit: Inventory, assessment Download Link: [MAP Tool kit](https://www.microsoft.com/en-us/download/details.aspx?id=7826)
     - [Azure Migrate](https://azure.microsoft.com/en-us/products/app-service/migration-tools/) for application workloads and dependencies.
-    - [Ora2PG](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md) / [SSMA](./03.Oracle2SQL/03-02.Assessment_Convert.md) : scans Source Databases and collects schema, Data.
+    - [Ora2PG](https://ora2pg.darold.net/) / [SSMA](https://learn.microsoft.com/en-us/sql/ssma/oracle/sql-server-migration-assistant-for-oracle-oracletosql?view=sql-server-ver16) : scans Source Databases and collects schema, Data.
     </br>
+
+- Detailed Guidance for [Oracle to PostgreSQL Migration Scenario](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md)
+- Detailed Guidance for [Oracle to SQL Database Migration Scenario](./03.Oracle2SQL/03-02.Assessment_Convert.md)
+</br>
 
 </br>
 
@@ -106,15 +110,14 @@ For more information about cloud migration strategies, see [Start your cloud mig
 
   - **Accelerators For Assessment**
     - Application Assessment Azure Migrate
-      Assessment link | Download the Migration Assistant for your .NET and PHP Apps.
-    - Database Assessment Ora2PG / SSMA
-      DMA Docs | SSMA Docs
-    - Migration Guide and Migration Journey and Tools Video
+      [Download the Migration Assistant for your .NET and PHP Apps](https://azure.microsoft.com/en-us/products/app-service/migration-tools/).
+    - Database Assessment [Ora2PG](https://github.com/darold/ora2pg/releases) / [SSMA](https://www.microsoft.com/en-us/download/details.aspx?id=54258)
+      [Ora2PG Docs](https://ora2pg.darold.net/documentation.html) | [SSMA Docs](https://learn.microsoft.com/en-us/sql/ssma/oracle/sql-server-migration-assistant-for-oracle-oracletosql?view=sql-server-ver16)
+    - [Migration Guide](https://learn.microsoft.com/en-us/data-migration/) and [Migration Journey and Tools Video](https://learn.microsoft.com/en-us/shows/data-exposed/?terms=oracle)
   </br>
 
-  - Detailed Guidance for [Oracle to PostgreSQL Migration Scenario](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md)
-  - Detailed Guidance for [Oracle to SQL Database Migration Scenario](./03.Oracle2SQL/03-02.Assessment_Convert.md)
-
+- Detailed Guidance for [Oracle to PostgreSQL Migration Scenario](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md)
+- Detailed Guidance for [Oracle to SQL Database Migration Scenario](./03.Oracle2SQL/03-02.Assessment_Convert.md)
 </br>
 
 </br>
