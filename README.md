@@ -70,20 +70,52 @@ For more information about cloud migration strategies, see [Start your cloud mig
     - Determine application dependencies, database dependencies and available downtime for each business services.
     - Workloads that need to be migrated together (Server, Application, Databases).
     - Inventory collection template filled.
-    - Ora2PG / DMA preliminary inventory details.
+    - Ora2PG / SSMA preliminary inventory details.
     </br>
 
-  - **Accelerators**
+  - **Accelerators For Discovery**
     - MAP Microsoft Assessment and Planning Toolkit: Inventory, assessment Download Link: [MAP Tool kit](https://www.microsoft.com/en-us/download/details.aspx?id=7826)
     - [Azure Migrate](https://azure.microsoft.com/en-us/products/app-service/migration-tools/) for application workloads and dependencies.
-    - [Ora2PG](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md) / [DMA](./03.Oracle2SQL/03-02.Assessment_Convert.md) : scans Source Databases and collects schema, Data.
+    - [Ora2PG](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md) / [SSMA](./03.Oracle2SQL/03-02.Assessment_Convert.md) : scans Source Databases and collects schema, Data.
     </br>
 
 </br>
 
 - **Assessment & Convert**
+</br>
+
+  - **What To Assess**
+    - Review and Assess output of Azure migration assistant and Azure Migration output.
+    - Assess application technologies and target remediation SKUs, dependency map with application, server, DBs.
+    - Run and gather output from Ora2PG / SSMA.
+    - Identify Application and Databases breaking and critical changes.
+      (For example: Third party application that does not support movement to Azure, functions, Package body and nested procedure calls , Synonyms, Table sub-partitions etc.)
+    - Map the discovered inventory with limitations of Azure SQL Database. (For example: Storage -> IOPS)
+    - Review LOBS, XML, JSON types.
+    - Data load frequency.
+    - HA/DR- possible configurations  and cost assessment.
+    - Table partitioning,  Indexes, Ingestion record sizes.
+    - Realtime analytical workload scenarios.
+    - Data Encryption.
+    - Experience from previous migration using Ora2PG / SSMA can convert 80-90% schema and 50% of code for very complex code involves nested procedure.
+  </br>
+
+  - **Outcomes Of Assessment**
+    - Target SKUs (For example: Single Server Vs Hyperscale)
+    - Target topology - Application, DB, storage, sizing, network requires, back ups, monitoring, security, logging, analytics, optimization and Modernize options post migration, replication (geo Vs local), back up and retention, storage size, application remediation areas, code changes, function changes/re-write code paths, Deployment and cutover plan.
+    - Decision to leave some DBs On-prem and move application only using hybrid connections and move to IaaS for now with a future path to optimize and modernization in the radar i.e. move on to PaaS.
+  </br>
+
+  - **Accelerators For Assessment**
+    - Application Assessment Azure Migrate
+      Assessment link | Download the Migration Assistant for your .NET and PHP Apps.
+    - Database Assessment Ora2PG / SSMA
+      DMA Docs | SSMA Docs
+    - Migration Guide and Migration Journey and Tools Video
+  </br>
   - Detailed Guidance for [Oracle to PostgreSQL Migration Scenario](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md)
   - Detailed Guidance for [Oracle to SQL Database Migration Scenario](./03.Oracle2SQL/03-02.Assessment_Convert.md)
+
 </br>
 
 </br>
