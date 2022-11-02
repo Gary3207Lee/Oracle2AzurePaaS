@@ -4,6 +4,7 @@
 Welcome to the Oracle to Azure PaaS database migration.
 
 </br>
+
 </br>
 
 ## **1. Migration Drivers**
@@ -33,6 +34,8 @@ Welcome to the Oracle to Azure PaaS database migration.
 - **Rebuild**: Rebuild an application from scratch using cloud-native technologies. Azure platform as a service (PaaS) provides a complete development and deployment environment in the cloud, without the expense and complexity of software licenses, the need for underlying application infrastructure, or middleware and other resources. With this cloud migration strategy, you manage the applications and services you develop, and Azure manages everything else.
 
 For more information about cloud migration strategies, see [Start your cloud migration process](https://azure.microsoft.com/en-us/migration/migration-journey/).
+
+</br>
 
 </br>
 
@@ -81,13 +84,34 @@ For more information about cloud migration strategies, see [Start your cloud mig
 - **Assessment & Convert**
   - Detailed Guidance for [Oracle to PostgreSQL Migration Scenario](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md)
   - Detailed Guidance for [Oracle to SQL Database Migration Scenario](./03.Oracle2SQL/03-02.Assessment_Convert.md)
+</br>
+
+</br>
 
 ### **(2) Migration**
 
 - Detailed Guidance for [Oracle to PostgreSQL Migration Scenario](./02.Oracle2PostgreSQL/02-03.Migration.md)
 - Detailed Guidance for [Oracle to SQL Database Migration Scenario](./03.Oracle2SQL/03-03.Migration.md)
+</br>
+
+</br>
 
 ### **(3) Post-Migration**
+
+After migration it is important to use an iterative optimization process to ensure the best performance and functionality of your solution in the target environment
+
+- **Verification**:
+  - Verify the schema and data.
+  - Application connectivity and post migration remediations.
+- **Optimization Opportunities**:
+  - Optimize with configuration changes identified during Assessment phase and look for key indicators.
+  - Look for resource contention.
+  - Check database performance.
+- Use [Azure Advisor](https://azure.microsoft.com/en-us/products/advisor/#overview) for Azure deployments.
+- Look for performance stats:
+  - [Tune applications and databases for performance in Azure SQL Database and Azure SQL Managed Instance](https://learn.microsoft.com/en-us/azure/azure-sql/database/performance-guidance?view=azuresql).
+  - [Perform intelligent tuning in Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/concepts-intelligent-tuning).
+</br>
 
 </br>
 
@@ -98,14 +122,25 @@ For more information about cloud migration strategies, see [Start your cloud mig
 
 </br>
 
+</br>
+
 ## **5. Multi-Tenant Architecture (SaaS Database Architecture)**
 
 </br>
+
 </br>
 
 # **Learning Path**
 
+</br>
+
+</br>
+
 # **Other Resources**
+
+</br>
+
+</br>
 
 # **Contribution**
 
