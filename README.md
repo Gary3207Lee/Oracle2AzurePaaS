@@ -63,9 +63,7 @@ For more information about cloud migration strategies, see [Start your cloud mig
     - Sensitive Data details (PII)
     - Compliance Requirement details
     </br>
-  
-  </br>
-  
+
   - **Outcomes of Discovery**
     - Discover the server, application, and database assets of different sources to Azure SQL Target Databases.
     - Determine application dependencies, database dependencies and available downtime for each business services.
