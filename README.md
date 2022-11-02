@@ -113,6 +113,7 @@ For more information about cloud migration strategies, see [Start your cloud mig
       DMA Docs | SSMA Docs
     - Migration Guide and Migration Journey and Tools Video
   </br>
+  
   - Detailed Guidance for [Oracle to PostgreSQL Migration Scenario](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md)
   - Detailed Guidance for [Oracle to SQL Database Migration Scenario](./03.Oracle2SQL/03-02.Assessment_Convert.md)
 
