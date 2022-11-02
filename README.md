@@ -44,8 +44,6 @@ For more information about cloud migration strategies, see [Start your cloud mig
 ### **(1) Pre-Migration**
 
 - **Discovery**
-</br>
-
   - **What to Discover?**
     - Application Details: Service Target, Service Time, Multi-Tenant, SaaS.
     - Service(Workload) Identity: Dependency for other Apps and Databases.
@@ -77,6 +75,8 @@ For more information about cloud migration strategies, see [Start your cloud mig
     - Azure Migrate for application workloads and dependencies.
     - DMA/SSMA : scans Source Databases and collects schema, Data.
     </br>
+
+</br>
 
 - **Assessment & Convert**
   - [PostgreSQL](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md)
