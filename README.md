@@ -45,19 +45,22 @@ For more information about cloud migration strategies, see [Start your cloud mig
 
 - **Discovery**
 - **Assessment & Convert**
-  - **PostgreSQL**
-  - **SQL Database**
+  - [PostgreSQL](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md)
+  - [SQL Database](./03.Oracle2SQL/03-02.Assessment_Convert.md)
 
 ### **(2) Migration**
 
-- **PostgreSQL**
-- **SQL Database**
+- [PostgreSQL](./02.Oracle2PostgreSQL/02-03.Migration.md)
+- [SQL Database](./03.Oracle2SQL/03-03.Migration.md)
 
 ### **(3) Post-Migration**
 
 </br>
 
 ## **4. Hands On Lab**
+
+- [PostgreSQL](./02.Oracle2PostgreSQL/02-04.Migration.md)
+- [SQL Database](./03.Oracle2SQL/03-04.Migration.md)
 
 </br>
 
