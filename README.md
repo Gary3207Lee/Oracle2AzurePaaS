@@ -82,8 +82,6 @@ For more information about cloud migration strategies, see [Start your cloud mig
 </br>
 
 - **Assessment & Convert**
-</br>
-
   - **What To Assess**
     - Review and Assess output of Azure migration assistant and Azure Migration output.
     - Assess application technologies and target remediation SKUs, dependency map with application, server, DBs.
@@ -113,7 +111,7 @@ For more information about cloud migration strategies, see [Start your cloud mig
       DMA Docs | SSMA Docs
     - Migration Guide and Migration Journey and Tools Video
   </br>
-  
+
   - Detailed Guidance for [Oracle to PostgreSQL Migration Scenario](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md)
   - Detailed Guidance for [Oracle to SQL Database Migration Scenario](./03.Oracle2SQL/03-02.Assessment_Convert.md)
 
