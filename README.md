@@ -79,13 +79,13 @@ For more information about cloud migration strategies, see [Start your cloud mig
 </br>
 
 - **Assessment & Convert**
-  - [PostgreSQL](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md)
-  - [SQL Database](./03.Oracle2SQL/03-02.Assessment_Convert.md)
+  - Detailed Guidance for [Oracle to PostgreSQL Migration Scenario](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md)
+  - Detailed Guidance for [Oracle to SQL Database Migration Scenario](./03.Oracle2SQL/03-02.Assessment_Convert.md)
 
 ### **(2) Migration**
 
-- [PostgreSQL](./02.Oracle2PostgreSQL/02-03.Migration.md)
-- [SQL Database](./03.Oracle2SQL/03-03.Migration.md)
+- Detailed Guidance for [Oracle to PostgreSQL Migration Scenario](./02.Oracle2PostgreSQL/02-03.Migration.md)
+- Detailed Guidance for [Oracle to SQL Database Migration Scenario](./03.Oracle2SQL/03-03.Migration.md)
 
 ### **(3) Post-Migration**
 
@@ -93,8 +93,8 @@ For more information about cloud migration strategies, see [Start your cloud mig
 
 ## **4. Hands On Lab**
 
-- [PostgreSQL](./02.Oracle2PostgreSQL/02-04.Migration.md)
-- [SQL Database](./03.Oracle2SQL/03-04.Migration.md)
+- Hands On Lab Exercise for [Oracle to PostgreSQL Migration Scenario](./02.Oracle2PostgreSQL/02-04.Migration.md)
+- Hands On Lab Exercise for [Oracle to SQL Database Migration Scenario](./03.Oracle2SQL/03-04.Migration.md)
 
 </br>
 
