@@ -76,8 +76,8 @@ For more information about cloud migration strategies, see [Start your cloud mig
     - [Ora2PG](https://ora2pg.darold.net/) / [SSMA](https://learn.microsoft.com/en-us/sql/ssma/oracle/sql-server-migration-assistant-for-oracle-oracletosql?view=sql-server-ver16) : scans Source Databases and collects schema, Data.
     </br>
 
-- Detailed Guidance for [Oracle to PostgreSQL](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md) Migration Scenario.
-- Detailed Guidance for [Oracle to SQL Database](./03.Oracle2SQL/03-02.Assessment_Convert.md) Migration Scenario.
+- Detailed Guidance for [Oracle to PostgreSQL](./02.Oracle2PostgreSQL/02.Oracle2PostgreSQL.md) Migration Scenario.
+- Detailed Guidance for [Oracle to SQL Database](./03.Oracle2SQL/03.Oracle2SQL.md) Migration Scenario.
 </br>
 
 </br>
@@ -113,16 +113,16 @@ For more information about cloud migration strategies, see [Start your cloud mig
     - [Migration Guide](https://learn.microsoft.com/en-us/data-migration/) and [Migration Journey and Tools Video](https://learn.microsoft.com/en-us/shows/data-exposed/?terms=oracle)
   </br>
 
-- Detailed Guidance for [Oracle to PostgreSQL](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md) Migration Scenario.
-- Detailed Guidance for [Oracle to SQL Database](./03.Oracle2SQL/03-02.Assessment_Convert.md) Migration Scenario.
+- Detailed Guidance for [Oracle to PostgreSQL](./02.Oracle2PostgreSQL/02.Oracle2PostgreSQL.md) Migration Scenario.
+- Detailed Guidance for [Oracle to SQL Database](./03.Oracle2SQL/03.Oracle2SQL.md) Migration Scenario.
 </br>
 
 </br>
 
 ### **(2) Migration**
 
-- Detailed Guidance for [Oracle to PostgreSQL](./02.Oracle2PostgreSQL/02-02.Assessment_Convert.md) Migration Scenario.
-- Detailed Guidance for [Oracle to SQL Database](./03.Oracle2SQL/03-02.Assessment_Convert.md) Migration Scenario.
+- Detailed Guidance for [Oracle to PostgreSQL](./02.Oracle2PostgreSQL/02.Oracle2PostgreSQL.md) Migration Scenario.
+- Detailed Guidance for [Oracle to SQL Database](./03.Oracle2SQL/03.Oracle2SQL.md) Migration Scenario.
 </br>
 
 </br>
@@ -148,8 +148,8 @@ After migration it is important to use an iterative optimization process to ensu
 
 ## **4. Hands On Lab**
 
-- Hands On Lab Exercise for [Oracle to PostgreSQL](./02.Oracle2PostgreSQL/02-04.Migration.md) Migration Scenario.
-- Hands On Lab Exercise for [Oracle to SQL Database](./03.Oracle2SQL/03-04.Migration.md) Migration Scenario.
+- Hands On Lab Exercise for [Oracle to PostgreSQL](./02.Oracle2PostgreSQL/02.Oracle2PostgreSQL_HoL.md) Migration Scenario.
+- Hands On Lab Exercise for [Oracle to SQL Database](./03.Oracle2SQL/03.Oracle2SQL_HoL.md) Migration Scenario.
 
 </br>
 
