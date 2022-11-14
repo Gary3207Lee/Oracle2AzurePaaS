@@ -15,7 +15,7 @@ Welcome to the Oracle to Azure PaaS database migration.
 - Performance Improvement
 - Cloud-First Mindset
 
-![00_01.migration_drivers](./01.MigrationStrategy/Resources/Image/00_01.migration_drivers.png"migration_drivers")
+![00_01.migration_drivers](./01.MigrationStrategy/Resources/Image/00_01.migration_drivers.png)
 </br>
 
 </br>
