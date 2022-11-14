@@ -15,10 +15,7 @@ Welcome to the Oracle to Azure PaaS database migration.
 - Performance Improvement
 - Cloud-First Mindset
 
-[Migration Driver References for PostgreSQL](./02.Oracle2PostgreSQL/02-01.Migration_Drivers.md)
-</br>
-
-[Migration Driver References for SQL Database](./03.Oracle2SQL/03-01.Migration_Drivers.md)
+![00_01.migration_drivers](./01.MigrationStrategy/Resources/Image/00_01.migration_drivers.png"migration_drivers")
 </br>
 
 </br>
