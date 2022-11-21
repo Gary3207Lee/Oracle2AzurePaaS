@@ -152,8 +152,8 @@ After migration it is important to use an iterative optimization process to ensu
 
 ## **4. Hands On Lab**
 
-- Hands On Lab Exercise for [Oracle to PostgreSQL](./02.Oracle2PostgreSQL/02.Oracle2PostgreSQL_HoL.md) Migration Scenario.
-- Hands On Lab Exercise for [Oracle to SQL Database](./03.Oracle2SQL/03.Oracle2SQL_HoL.md) Migration Scenario.
+- Hands On Lab Exercise for [Oracle to PostgreSQL](./04.HandsonLab/04_01.Oracle2PostgreSQL_HoL.md) Migration Scenario.
+- Hands On Lab Exercise for [Oracle to SQL Database](./04.HandsonLab/04_02.Oracle2SQL_HoL.md) Migration Scenario.
 
 </br>
 
