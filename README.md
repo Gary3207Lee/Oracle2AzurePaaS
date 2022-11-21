@@ -158,13 +158,27 @@ After migration it is important to use an iterative optimization process to ensu
 
 </br>
 
-## **5. Multi-Tenant Architecture (SaaS Database Architecture)**
-
-</br>
-
-</br>
-
 # **Learning Path**
+
+|Topic|Level|Learning Path|
+|-----|-----|-------------|
+|Azure SQL fundamentals|Beginner|https://learn.microsoft.com/en-us/training/paths/azure-sql-fundamentals/|
+|Azure Database for PostgreSQL|Beginner|https://learn.microsoft.com/en-us/training/paths/introduction-to-azure-postgres/|
+|Get Started Querying with Transact-SQL|Beginner|https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/|
+|Secure your cloud data|Beginner|https://learn.microsoft.com/en-us/training/paths/secure-your-cloud-data/|
+|Optimize government operations with Azure|Beginner|https://learn.microsoft.com/en-us/training/paths/optimize-government-operations/|
+|Understand data concepts|Beginner|https://learn.microsoft.com/en-us/training/paths/understand-data-concepts/|
+|Introduction to Azure database administration|Intermediate|https://learn.microsoft.com/en-us/training/paths/introduction-to-azure-database-administration/|
+|Work with Azure Database for PostgreSQL|Intermediate|https://learn.microsoft.com/en-us/training/paths/microsoft-learn-azure-database-for-postgresql/|
+|Architect a data platform in Azure|Intermediate|https://learn.microsoft.com/en-us/training/paths/architect-data-platform/|
+|Implement a secure environment for a database service|Intermediate|https://learn.microsoft.com/en-us/training/paths/implement-secure-environment-database-service/|
+|Work with relational data in Azure|Intermediate|https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure/|
+|Architect migration, business continuity, and disaster recovery in Azure|Intermediate|https://learn.microsoft.com/en-us/training/paths/architect-migration-bcdr/|
+|Automate database tasks for Azure SQL|Intermediate|https://learn.microsoft.com/en-us/training/paths/automate-tasks-sql-server/|
+|Migrate SQL workloads to Azure|Intermediate|https://learn.microsoft.com/en-us/training/paths/migrate-sql-workloads-azure/|
+|Optimize query performance in Azure SQL|Intermediate|https://learn.microsoft.com/en-us/training/paths/optimize-query-performance-sql-server/|
+|Program with Transact-SQL|Advanced|https://learn.microsoft.com/en-us/training/paths/program-transact-sql/|
+|Write advanced Transact-SQL queries|Advanced|https://learn.microsoft.com/en-us/training/paths/write-advanced-transact-sql-queries/|
 
 </br>
 
