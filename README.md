@@ -184,12 +184,6 @@ After migration it is important to use an iterative optimization process to ensu
 
 </br>
 
-# **Other Resources**
-
-</br>
-
-</br>
-
 # **Contribution**
 
 Welcomes for contributions and suggestions.
