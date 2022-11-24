@@ -74,6 +74,9 @@ For more information about cloud migration strategies, see [Start your cloud mig
     - MAP Microsoft Assessment and Planning Toolkit: Inventory, assessment Download Link: [MAP Tool kit](https://www.microsoft.com/en-us/download/details.aspx?id=7826)
     - [Azure Migrate](https://azure.microsoft.com/en-us/products/app-service/migration-tools/) for application workloads and dependencies.
     - [Ora2PG](https://ora2pg.darold.net/) / [SSMA](https://learn.microsoft.com/en-us/sql/ssma/oracle/sql-server-migration-assistant-for-oracle-oracletosql?view=sql-server-ver16) : scans Source Databases and collects schema, Data.
+    - [Introducing assessment tooling for Oracle database migration to Azure SQL and PostgreSQL- Preview](https://techcommunity.microsoft.com/t5/microsoft-data-migration-blog/introducing-assessment-tooling-for-oracle-database-migration-to/ba-p/3650189)
+    - [Database Migration Assessment for Oracle extension (Preview)](https://learn.microsoft.com/en-us/sql/azure-data-studio/extensions/database-migration-assessment-for-oracle-extension?view=sql-server-ver16)
+    - [Database Migration Assessment for Oracle extension (Preview) Git Hub](https://github.com/MicrosoftDocs/sql-docs/blob/live/docs/azure-data-studio/extensions/database-migration-assessment-for-oracle-extension.md)
     </br>
 
 - Detailed Guidance for [Oracle to PostgreSQL](./02.Oracle2PostgreSQL/02.Oracle2PostgreSQL.md) Migration Scenario.
