@@ -1,8 +1,10 @@
 
 # **Oracle2AzurePaaS**
 
-Welcome to the Oracle to Azure PaaS database migration.
+Welcome to the Oracle to Azure PaaS database migration.</br>
+This document scope is only focus in Oracle migration in [Azure Database Migration Guide](https://learn.microsoft.com/en-us/data-migration/). </br>
 
+![00_01.migration_drivers](./01.MigrationStrategy/Resources/Image/00_00.azure_database_migration.png)
 </br>
 
 </br>
@@ -18,9 +20,9 @@ Welcome to the Oracle to Azure PaaS database migration.
 ![00_01.migration_drivers](./01.MigrationStrategy/Resources/Image/00_01.migration_drivers.png)
 </br>
 
-Cost Optimization is the largest number of cases for Oracle to Azure migration and typical scenario for Cost Optimization is Oracle to PostgreSQL migration scenario. </br>
-In Oracle to PostgreSQL migration scenario, if customer is already optimized instance / objects / queries for performance with Oracle native features, the performance can be a concern in PostgreSQL after migration. </br>
-For mission critical system or performance critical system, Azure SQL Managed Instance or Azure Synapse Analytics can be a better choice based on OLTP / OLAP workload. </br>
+**Cost Optimization** is the largest number of cases for Oracle to Azure migration and typical scenario for Cost Optimization is Oracle to PostgreSQL migration scenario. </br>
+In Oracle to PostgreSQL migration scenario, if customer is already optimized instance / objects / queries for performance with Oracle native features, **the performance can be a concern in PostgreSQL** after migration. </br>
+For mission critical system or performance critical system, **Azure SQL Managed Instance** or **Azure Synapse Analytics** can be a better choice based on OLTP / OLAP workload. </br>
 
 </br>
 
