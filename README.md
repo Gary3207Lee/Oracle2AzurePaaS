@@ -81,7 +81,7 @@ For more information about cloud migration strategies, see [Start your cloud mig
     </br>
 
   - **Accelerators For Discovery**
-    - MAP Microsoft Assessment and Planning Toolkit: Inventory, assessment Download Link: [MAP Tool kit](https://www.microsoft.com/en-us/download/details.aspx?id=7826)
+    - MAP Microsoft Assessment and Planning Toolkit: Inventory, assessment Download Link: [MAP Tool kit](https://go.microsoft.com/fwlink/?LinkID=316883)
     - [Azure Migrate](https://azure.microsoft.com/en-us/products/app-service/migration-tools/) for application workloads and dependencies.
     - [Ora2PG](https://ora2pg.darold.net/) / [SSMA](https://learn.microsoft.com/en-us/sql/ssma/oracle/sql-server-migration-assistant-for-oracle-oracletosql?view=sql-server-ver16) : scans Source Databases and collects schema, Data.
     </br>
