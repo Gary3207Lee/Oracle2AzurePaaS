@@ -18,6 +18,10 @@ Welcome to the Oracle to Azure PaaS database migration.
 ![00_01.migration_drivers](./01.MigrationStrategy/Resources/Image/00_01.migration_drivers.png)
 </br>
 
+Cost Optimization is the largest number of cases for Oracle to Azure migration and typical scenario for Cost Optimization is Oracle to PostgreSQL migration scenario. </br>
+In Oracle to PostgreSQL migration scenario, if customer is already optimized instance / objects / queries for performance with Oracle native features, the performance can be a concern in PostgreSQL after migration. </br>
+For mission critical system or performance critical system, Azure SQL Managed Instance or Azure Synapse Analytics can be a better choice based on OLTP / OLAP workload. </br>
+
 </br>
 
 ## **2. Cloud Migration Strategy**
