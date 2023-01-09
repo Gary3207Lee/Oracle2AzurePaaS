@@ -48,7 +48,7 @@ For more information about cloud migration strategies, see [Start your cloud mig
 
 ## **3. Database Migration Process Overview**
 
-![01_01.database_migration_process_overview](./01.MigrationStrategy/Resources/Image/01_01.database_migration_process_overview.png "database_migration_process_overview")
+![00_02.database_migration_process_overview](./01.MigrationStrategy/Resources/Image/00_02.database_migration_process_overview.png "database_migration_process_overview")
 </br>
 
 ### **(1) Pre-Migration**
@@ -184,7 +184,7 @@ After migration it is important to use an iterative optimization process to ensu
 |Introduction to Azure database administration|Intermediate|https://learn.microsoft.com/en-us/training/paths/introduction-to-azure-database-administration/|
 |Work with Azure Database for PostgreSQL|Intermediate|https://learn.microsoft.com/en-us/training/paths/microsoft-learn-azure-database-for-postgresql/|
 |Architect a data platform in Azure|Intermediate|https://learn.microsoft.com/en-us/training/paths/architect-data-platform/|
-|Implement a secure environment for a database service|Intermediate|https://learn.microsoft.com/en-us/training/paths/implement-secure-environment-database-service/|
+|Implement a secure environment for a database service|Intermediate|https://learn.microsoft.com/en-us/training/paths/mplement-secure-environment-database-service/|
 |Work with relational data in Azure|Intermediate|https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure/|
 |Architect migration, business continuity, and disaster recovery in Azure|Intermediate|https://learn.microsoft.com/en-us/training/paths/architect-migration-bcdr/|
 |Automate database tasks for Azure SQL|Intermediate|https://learn.microsoft.com/en-us/training/paths/automate-tasks-sql-server/|
