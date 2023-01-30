@@ -68,7 +68,7 @@ For more information about cloud migration patterns, see [Cloud Migration Patter
 </br>
 
 - **Assessment & Convert**
-  - Detail Guidance for [Oracle to PostgreSQL](./02.Oracle2PostgreSQL/02_01.Assessment_N_Convert.md_) Migration Scenario.
+  - Detail Guidance for [Oracle to PostgreSQL](./02.Oracle2PostgreSQL/02_01.Assessment_N_Convert.md) Migration Scenario.
   - Detail Guidance for [Oracle to SQL Database](./03.Oracle2SQL/03_01.Assessment_N_Convert.md) Migration Scenario.
 </br>
 
