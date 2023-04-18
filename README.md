@@ -92,8 +92,8 @@ For more information about cloud migration patterns, see [Cloud Migration Patter
 ## **4. Hands On Lab**
 
 - [Before the Hands On Lab](https://github.com/microsoft/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL/blob/master/Hands-on%20lab/Before%20the%20HOL%20-%20Migrating%20Oracle%20to%20Azure%20SQL%20and%20PostgreSQL.md)
-- Hands On Lab Exercise for [Oracle to PostgreSQL](https://github.com/microsoft/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Migrating%20Oracle%20to%20Azure%20SQL.md) Migration Scenario.
-- Hands On Lab Exercise for [Oracle to SQL Database](https://github.com/microsoft/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Migrating%20Oracle%20to%20PostgreSQL.md) Migration Scenario.
+- Hands On Lab Exercise for [Oracle to PostgreSQL](https://github.com/microsoft/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Migrating%20Oracle%20to%20PostgreSQL.md) Migration Scenario.
+- Hands On Lab Exercise for [Oracle to SQL Database](https://github.com/microsoft/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Migrating%20Oracle%20to%20Azure%20SQL.md) Migration Scenario.
 </br>
 
 </br>
